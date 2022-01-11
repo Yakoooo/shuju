@@ -11,10 +11,10 @@
 	},
 	"db_config" : {
 		"protocol" : "mysql",
-		"host" : "127.0.0.1",
+		"host" : "47.106.117.17",
 		"database" : "mydb",
 		"user" : "root",
-		"password" : "123456",
+		"password" : "Chen23",
 		"port" : 3306
 	}
 }
